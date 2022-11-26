@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "worker.h": "c",
+        "string.h": "c",
+        "tusb.h": "c"
+    }
+}
